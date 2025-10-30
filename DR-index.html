@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dominican Republic | Muucho</title>
+    <link rel="stylesheet" href="DR-style.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="language-toggle">
+        <button id="lang-toggle">ES</button>
+    </div>
+
+    <div class="video-background">
+        <video autoplay muted loop playsinline>
+            <source src="./DR_BG.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    <header class="dr-header">
+        <img src="./DR-images/flag.png" alt="Dominican Republic Flag" class="country-flag" />
+        <p class="country-description" id="country-desc">
+            <!-- Short description of Dominican Republic will be injected here -->
+        </p>
+    </header>
+
+    <section class="filter-section">
+        <div class="filter-icons">
+            <button class="filter-btn" data-type="appetizer">🥟 Appetizer</button>
+            <button class="filter-btn" data-type="main">🍽️ Main</button>
+            <button class="filter-btn" data-type="dessert">🍰 Dessert</button>
+            <button class="filter-btn" data-type="snack">🍿 Snack</button>
+            <button class="filter-btn" data-type="drink">🍹 Drink</button>
+        </div>
+        <button id="favorites-filter" class="filter-btn">💖 Favorites</button>
+
+        <input type="text" id="recipe-search" placeholder="Search recipes..." />
+    </section>
+
+    <section class="recipe-grid" id="recipe-grid">
+        <!-- Recipe cards will be injected here -->
+        <button class="fav-btn" data-name="Mangú">❤️ Add to Favorites</button>
+
+    </section>
+
+    <script src="DR-script.js"></script>
+</body>
+
+</html>

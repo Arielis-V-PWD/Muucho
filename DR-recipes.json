@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Mangú",
+        "image": "./DR-images/mangu.png",
+        "description": {
+            "en": "Mashed plantains served with sautéed onions, cheese, and salami.",
+            "es": "Plátanos majados servidos con cebolla salteada, queso y salami."
+        },
+        "type": "main"
+    },
+    {
+        "name": "Habichuelas con Dulce",
+        "image": "./DR-images/habichuelas con dulce.png",
+        "description": {
+            "en": "Sweet creamy dessert made from red beans, coconut milk, and spices.",
+            "es": "Postre cremoso y dulce hecho con habichuelas rojas, leche de coco y especias."
+        },
+        "type": "dessert"
+    },
+    {
+        "name": "Tostones",
+        "image": "./DR-images/tostones.png",
+        "description": {
+            "en": "Twice-fried green plantains, crispy and perfect for snacking.",
+            "es": "Plátanos verdes fritos dos veces, crujientes y perfectos para picar."
+        },
+        "type": "snack"
+    },
+    {
+        "name": "Morir Soñando",
+        "image": "./DR-images/morir sonando.png",
+        "description": {
+            "en": "Refreshing drink made with orange juice and milk.",
+            "es": "Bebida refrescante hecha con jugo de naranja y leche."
+        },
+        "type": "drink"
+    }
+]

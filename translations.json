@@ -1,0 +1,68 @@
+{
+    "en": {
+        "nav": {
+            "home": "Home",
+            "option1": "Countries",
+            "option2": "Option 2"
+        },
+        "home": {
+            "description": "From street snacks to family feasts, Muucho brings you authentic Hispanic recipes told by the people who know them best. Explore dishes by country and category; appetizers, mains, desserts, snacks, and drinks. Discover the stories and flavors that make each one unforgettable."
+        },
+        "countries": [
+            "Dominican Republic",
+            "Puerto Rico",
+            "Cuba",
+            "Colombia",
+            "Mexico",
+            "Peru",
+            "Argentina",
+            "Guatemala",
+            "Honduras",
+            "Nicaragua",
+            "Costa Rica",
+            "Paraguay"
+        ],
+        "footer": {
+            "tagline": "© 2025 Muucho. Celebrating Hispanic flavors, one recipe at a time.",
+            "links": {
+                "about": "About",
+                "contact": "Contact",
+                "privacy": "Privacy Policy",
+                "terms": "Terms of Use"
+            }
+        }
+    },
+    "es": {
+        "nav": {
+            "home": "Inicio",
+            "option1": "Países",
+            "option2": "Opción 2"
+        },
+        "home": {
+            "description": "Desde bocadillos callejeros hasta banquetes familiares, Muucho te ofrece recetas hispanas auténticas contadas por quienes mejor las conocen. Explora platos por país y categoría: aperitivos, platos principales, postres, bocadillos y bebidas. Descubre las historias y sabores que hacen que cada uno sea inolvidable."
+        },
+        "countries": [
+            "República Dominicana",
+            "Puerto Rico",
+            "Cuba",
+            "Colombia",
+            "México",
+            "Perú",
+            "Argentina",
+            "Guatemala",
+            "Honduras",
+            "Nicaragua",
+            "Costa Rica",
+            "Paraguay"
+        ],
+        "footer": {
+            "tagline": "© 2025 Muucho. Celebrando los sabores hispanos, una receta a la vez.",
+            "links": {
+                "about": "Acerca de",
+                "contact": "Contacto",
+                "privacy": "Política de Privacidad",
+                "terms": "Términos de Uso"
+            }
+        }
+    }
+}

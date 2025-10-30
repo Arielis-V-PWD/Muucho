@@ -1,0 +1,34 @@
+{
+    "en": {
+        "description": "The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It occupies the eastern two-thirds of the island and is the second-largest country in the Caribbean by area and population.",
+        "filters": {
+            "appetizer": "Appetizer",
+            "main": "Main",
+            "dessert": "Dessert",
+            "snack": "Snack",
+            "drink": "Drink",
+            "favorites": "Favorites",
+            "search": "Search recipes..."
+        },
+        "favorites": {
+            "add": "❤️ Add to Favorites",
+            "added": "💖 Favorited"
+        }
+    },
+    "es": {
+        "description": "La República Dominicana es una nación caribeña ubicada en la isla de La Española, que comparte con Haití. Ocupa los dos tercios orientales de la isla y es el segundo país más grande del Caribe por área y población.",
+        "filters": {
+            "appetizer": "Aperitivo",
+            "main": "Plato Principal",
+            "dessert": "Postre",
+            "snack": "Bocadillo",
+            "drink": "Bebida",
+            "favorites": "Favoritos",
+            "search": "Buscar recetas..."
+        },
+        "favorites": {
+            "add": "❤️ Añadir a Favoritos",
+            "added": "💖 Favorito"
+        }
+    }
+}

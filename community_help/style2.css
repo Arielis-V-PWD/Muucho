@@ -1,0 +1,134 @@
+/* Base Colors */
+:root {
+    --cow-cream: #FFF8E7;
+    --terracotta-red: #D94F30;
+    --maiz-yellow: #F4C430;
+    --pasture-green: #6DA34D;
+    --cocoa-brown: #4E342E;
+
+    --appetizer-green: #A8D5BA;
+    --main-red: #C62828;
+    --dessert-pink: #F8BBD0;
+    --snack-orange: #FFA726;
+    --drink-blue: #81D4FA;
+
+    --mexico-green: #006847;
+    --mexico-red: #CE1126;
+    --argentina-blue: #74ACDF;
+    --argentina-gold: #F7DC6F;
+    --peru-red: #D91023;
+    --peru-white: #F5F5F5;
+    --colombia-yellow: #FFD700;
+    --colombia-blue: #0033A0;
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: var(--cow-cream);
+    color: var(--cocoa-brown);
+}
+
+.hero {
+    background-color: var(--terracotta-red);
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+.cow-icon {
+    width: 100px;
+    margin-bottom: 1rem;
+}
+
+.cta-buttons button {
+    margin: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.explore {
+    background-color: var(--maiz-yellow);
+    color: var(--cocoa-brown);
+}
+
+.language {
+    background-color: var(--pasture-green);
+    color: white;
+}
+
+.categories,
+.countries {
+    padding: 2rem;
+    text-align: center;
+}
+
+.category-grid,
+.country-grid {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+
+.category,
+.country {
+    padding: 1rem;
+    border-radius: 8px;
+    font-weight: bold;
+    width: 120px;
+    text-align: center;
+    color: white;
+}
+
+.appetizer {
+    background-color: var(--appetizer-green);
+}
+
+.mains {
+    background-color: var(--main-red);
+}
+
+.desserts {
+    background-color: var(--dessert-pink);
+}
+
+.snacks {
+    background-color: var(--snack-orange);
+}
+
+.drinks {
+    background-color: var(--drink-blue);
+}
+
+.mexico {
+    background: linear-gradient(to right, var(--mexico-green), var(--mexico-red));
+}
+
+.argentina {
+    background: linear-gradient(to right, var(--argentina-blue), var(--argentina-gold));
+}
+
+.peru {
+    background: linear-gradient(to right, var(--peru-red), var(--peru-white));
+}
+
+.colombia {
+    background: linear-gradient(to right, var(--colombia-yellow), var(--colombia-blue));
+}
+
+footer {
+    background-color: var(--cocoa-brown);
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.footer-links a {
+    margin: 0 1rem;
+    color: var(--maiz-yellow);
+    text-decoration: none;
+}

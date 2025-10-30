@@ -1,0 +1,62 @@
+[
+    {
+        "image": "./countries-img/Dominican Republic.png",
+        "name": "Country 1",
+        "link": "./DR-index.html"
+    },
+    {
+        "image": "./countries-img/Puerto Rico.png",
+        "name": "Country 2",
+        "link": "#"
+    },
+    {
+        "image": "./countries-img/Cuba.png",
+        "name": "Country 3",
+        "link": "#"
+    },
+    {
+        "image": "./countries-img/Colombia.png",
+        "name": "Country 4",
+        "link": "#"
+    },
+    {
+        "image": "./countries-img/Mexico.png",
+        "name": "Country 5",
+        "link": "#"
+    },
+    {
+        "image": "./countries-img/Peru.png",
+        "name": "Country 6",
+        "link": "#"
+    },
+    {
+        "image": "./countries-img/Argentina.png",
+        "name": "Country 7",
+        "link": "#"
+    },
+    {
+        "image": "./countries-img/Guatemala.png",
+        "name": "Country 8",
+        "link": "#"
+    },
+    {
+        "image": "./countries-img/Honduras.png",
+        "name": "Country 9",
+        "link": "#"
+    },
+    {
+        "image": "./countries-img/Nicaragua.png",
+        "name": "Country 10",
+        "link": "#"
+    },
+    {
+        "image": "./countries-img/Costa Rica.png",
+        "name": "Country 11",
+        "link": "#"
+    },
+    {
+        "image": "./countries-img/Paraguay.png",
+        "name": "Country 12",
+        "link": "#"
+    }
+]
